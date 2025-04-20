@@ -1,6 +1,6 @@
 # Portfolio Optimization using Clustering and Modern Portfolio Theory
 
-This project explores the integration of unsupervised machine learning techniques with quantitative finance to construct, optimize, and evaluate diversified investment portfolios. By leveraging clustering algorithms to enhance asset selection and applying Modern Portfolio Theory (MPT) to derive optimal allocations, we assess how data-driven approaches can improve portfolio performance in terms of both return and risk.
+This project explores the integration of unsupervised machine learning techniques with quantitative finance to construct, optimise, and evaluate diversified investment portfolios. By leveraging clustering algorithms to enhance asset selection and applying Modern Portfolio Theory (MPT) to derive optimal allocations, we assess how data-driven approaches can improve portfolio performance in terms of both return and risk.
 
 ---
 
